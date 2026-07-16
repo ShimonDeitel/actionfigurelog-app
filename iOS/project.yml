@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: ActionFigureLogTests
-      - path: ActionFigureLog.storekit
     dependencies:
       - target: ActionFigureLog
     settings:
